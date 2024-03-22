@@ -1,0 +1,3 @@
+
+class PatientNumberNotFoundException(Exception):
+    pass
